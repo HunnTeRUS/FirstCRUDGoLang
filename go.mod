@@ -10,6 +10,7 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.1 // indirect
+	github.com/oov/dockertest v0.0.0-20151120211758-d36020cc6a1a // indirect
 	github.com/ugorji/go v1.2.5 // indirect
 	go.mongodb.org/mongo-driver v1.5.1 // indirect
 	golang.org/x/crypto v0.0.0-20210415154028-4f45737414dc // indirect
@@ -17,5 +18,6 @@ require (
 	golang.org/x/text v0.3.6 // indirect
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2 // indirect
+	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
